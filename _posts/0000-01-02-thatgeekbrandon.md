@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"A shinobi always keeps his word. Believe it!" -Naruto Uzamaki
 Use the left arrow to go back!
